@@ -4,8 +4,8 @@
 class Solution {
     
     // Time Complexity = O(1), Space Complexity = O(1)
-    static int[] passedBy(int a, int b) {
+    static int[] passedBy(int var1, int var2) {
         // code here
-        return new int[]{a + 1, b + 2};
+        return new int[]{var1 + 1, var2 + 2};
     }
 }
